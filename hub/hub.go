@@ -1,8 +1,8 @@
 package hub
 
 import (
-	"github.com/zu1k/clashr/hub/executor"
-	"github.com/zu1k/clashr/hub/route"
+	"github.com/yuche/clashr/hub/executor"
+	"github.com/yuche/clashr/hub/route"
 )
 
 // Parse call at the beginning of clash

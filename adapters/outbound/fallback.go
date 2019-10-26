@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	C "github.com/zu1k/clashr/constant"
+	C "github.com/yuche/clashr/constant"
 )
 
 type Fallback struct {

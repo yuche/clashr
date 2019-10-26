@@ -3,7 +3,7 @@ package rules
 import (
 	"net"
 
-	C "github.com/zu1k/clashr/constant"
+	C "github.com/yuche/clashr/constant"
 )
 
 type IPCIDR struct {

@@ -8,12 +8,12 @@ import (
 	"strings"
 	"time"
 
-	adapters "github.com/zu1k/clashr/adapters/inbound"
-	"github.com/zu1k/clashr/common/cache"
-	"github.com/zu1k/clashr/component/auth"
-	"github.com/zu1k/clashr/log"
-	authStore "github.com/zu1k/clashr/proxy/auth"
-	"github.com/zu1k/clashr/tunnel"
+	adapters "github.com/yuche/clashr/adapters/inbound"
+	"github.com/yuche/clashr/common/cache"
+	"github.com/yuche/clashr/component/auth"
+	"github.com/yuche/clashr/log"
+	authStore "github.com/yuche/clashr/proxy/auth"
+	"github.com/yuche/clashr/tunnel"
 )
 
 var (

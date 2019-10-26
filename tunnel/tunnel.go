@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-	InboundAdapter "github.com/zu1k/clashr/adapters/inbound"
-	"github.com/zu1k/clashr/component/nat"
-	C "github.com/zu1k/clashr/constant"
-	"github.com/zu1k/clashr/dns"
-	"github.com/zu1k/clashr/log"
+	InboundAdapter "github.com/yuche/clashr/adapters/inbound"
+	"github.com/yuche/clashr/component/nat"
+	C "github.com/yuche/clashr/constant"
+	"github.com/yuche/clashr/dns"
+	"github.com/yuche/clashr/log"
 
 	channels "gopkg.in/eapache/channels.v1"
 )

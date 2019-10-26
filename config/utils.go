@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	C "github.com/zu1k/clashr/constant"
-	adapters "github.com/zu1k/clashr/adapters/outbound"
-	"github.com/zu1k/clashr/common/structure"
+	C "github.com/yuche/clashr/constant"
+	adapters "github.com/yuche/clashr/adapters/outbound"
+	"github.com/yuche/clashr/common/structure"
 )
 
 func trimArr(arr []string) (r []string) {

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/zu1k/clashr/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://github.com/yuche/clashr/raw/master/docs/logo.png" alt="Clash" width="200">
   <br>Clash<br>
 </h1>
 
@@ -13,7 +13,7 @@
   <a href="https://goreportcard.com/report/github.com/zu1k/clashr">
     <img src="https://goreportcard.com/badge/github.com/zu1k/clashr?style=flat-square">
   </a>
-  <a href="https://github.com/zu1k/clashr/releases">
+  <a href="https://github.com/yuche/clashr/releases">
     <img src="https://img.shields.io/github/release/zu1k/clashr/all.svg?style=flat-square">
   </a>
 </p>
@@ -35,7 +35,7 @@ Clash Requires Go >= 1.13. You can build it from source:
 $ go get -u -v github.com/zu1k/clashr
 ```
 
-Pre-built binaries are available here: [release](https://github.com/zu1k/clashr/releases)
+Pre-built binaries are available here: [release](https://github.com/yuche/clashr/releases)
 
 Check Clash version with:
 
@@ -57,7 +57,7 @@ $ pm2 start clash
 
 If you have Docker installed, you can run clash directly using `docker-compose`.
 
-[Run clash in docker](https://github.com/zu1k/clashr/wiki/Run-clash-in-docker)
+[Run clash in docker](https://github.com/yuche/clashr/wiki/Run-clash-in-docker)
 
 ## Config
 

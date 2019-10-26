@@ -1,4 +1,4 @@
-module github.com/zu1k/clashr
+module github.com/yuche/clashr
 
 go 1.13
 
@@ -19,7 +19,7 @@ require (
 	github.com/oschwald/maxminddb-golang v1.5.0 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0
-	github.com/zu1k/gossr v0.0.0-20190917142441-e5497022713d
+	github.com/yuche/gossr v0.0.0-20191026180604-2e0d0ae6115f
 	gitlab.com/yawning/chacha20.git v0.0.0-20190903091407-6d1cb28dc72c // indirect
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 	golang.org/x/net v0.0.0-20191011234655-491137f69257
